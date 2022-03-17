@@ -1,0 +1,9 @@
+apri applicazione gruppo due
+
+calcola percorso da Fermo a Ancona a piedi
+calcola percorso da Napoli a Cosenza in auto con distanza minore
+
+confronta i percorsi da roma a milano partendo alle 2 alle 8 alle 18 e alle 22
+
+trova l'ospedale più vicino a montegiorgio
+trova il ristorante migliore a ancona nel giro di 6000 metri che sia almeno economico
